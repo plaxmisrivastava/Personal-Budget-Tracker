@@ -40,7 +40,7 @@ The evaluator must follow these specific steps to clone and execute the project 
 2.  **Clone the Repository:**
     Run the `git clone` command using the verified URL to download the entire project.
     ```bash
-    git clone https://github.com/Aviralsahu960/Personal-Budget-Tracker-Project.git
+    git clone https://github.com/plaxmisrivastava/Personal-Budget-Tracker.git
     ```
 
 3.  **Navigate into the Project Folder:**
