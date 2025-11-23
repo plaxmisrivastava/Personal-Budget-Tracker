@@ -1,4 +1,4 @@
-# Personal-Budget-Tracker#  Personal Budget Tracker
+# Personal-Budget-Tracker
 
 ## 1. Project Overview and Motivation
 
